@@ -5,7 +5,7 @@ The company has developed a new web page in order to try and increase the number
 
 ### The data can be found [here](https://github.com/SalmaAlmasry/Old-page-New-page-A-B-Testing/blob/main/ab_data.csv) and [here](https://github.com/SalmaAlmasry/Old-page-New-page-A-B-Testing/blob/main/countries.csv)
 
-### The Workbook can be found here, it contains: 
+### The Workbook can be found [here](https://github.com/SalmaAlmasry/Old-page-New-page-A-B-Testing/blob/main/Analyze_ab_test_results_notebook.ipynb), it contains: 
   - Part I - Probability
   - Part II - A/B Test
   - Part III - A regression approach
